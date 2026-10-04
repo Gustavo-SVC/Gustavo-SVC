@@ -15,6 +15,14 @@ I love learning and creating things, no matter what they are.
 - 🇪🇸 Spanish (low B2)
 - 🇩🇪 German (A1, currently learning)
 
+- ### Contact:
+- Email: gsvj23@gmail.com
+
+- ### A bit more about me
+- I love music, A LOT, I play the guitar and the piano, and I'm learning how to compose
+- I like to learn and discover new cultures
+
+
 <!--
 **Gustavo-SVC/Gustavo-SVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
