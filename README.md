@@ -1,9 +1,30 @@
-## Hi there 👋
+## Hey there 🤙​
+
+
+I'm Gustavo, a computer science student based in Brazil and I'm currently in my first year of college.
+
+I love learning and creating things, no matter what they are
+
+### What I'm up to:
+
+📚 I'm currently focused on developing my programming skills and exploring new technologies
+💻 Currently learning: `Java` · `C`
+🎯 Looking for internship opportunities in the next few months
+
+### Languages I speak:
+
+🇧🇷 Portuguese (Native)
+🇺🇸 English (C1)
+🇪🇸 Spanish (low B2)
+🇩🇪 German (A1, currently learning)
 
 <!--
 **Gustavo-SVC/Gustavo-SVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +34,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### A bit more about me
+- Outside of coding, I [hobby here].
+- I'm learning German because [your reason].
+
+### Contact
+- Email: [your email]
+- LinkedIn: [your link]
 -->
